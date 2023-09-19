@@ -1,0 +1,4 @@
+1. Make your project directory
+2. Put a test file in.
+3. 'git init .'
+4. 
