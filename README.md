@@ -11,6 +11,10 @@ Continuous development of Game Design Document.
     Find previously written GDDs
     Find written notes from that class?
     Ask for feedback from others
+    Specific formatting issues
+        Oh god the Table of Contents line spacing
+        The page numbers not added to TOC
+        
 Seperate documentation apart so the project is more easily understandable.
 Add details to contribution section.
 
