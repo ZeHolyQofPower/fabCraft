@@ -6,17 +6,16 @@ I'm also to compile a lot of my notes and knowledge on semiconductor manufacturi
 This has the potential to be fun to others.  
 
 ## TODO:
-Continuous development of Game Design Document.
-    Find previous slides on GDD writting
-    Find previously written GDDs
-    Find written notes from that class?
-    Ask for feedback from others
-    Specific formatting issues
-        Oh god the Table of Contents line spacing
-        The page numbers not added to TOC
-        
-Seperate documentation apart so the project is more easily understandable.
-Add details to contribution section.
+1. Continuous development of Game Design Document.
+    1. Find previous slides on GDD writting
+    2. Find previously written GDDs
+    3. Find written notes from that class?
+    4. Ask for feedback from others
+    5. Specific formatting issues
+        1. Oh god the Table of Contents line spacing
+        1. The page numbers not added to TOC
+2. Seperate documentation apart so the project is more easily understandable.
+3. Add details to contribution section.
 
 ## How to Contribute.
 You Need:
