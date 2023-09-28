@@ -18,7 +18,7 @@ This has the potential to be fun to others.
 3. Add details to contribution section.
 
 ## How to Contribute.
-You Need:
-A Java IDE with a Gradle plugin: Eclipse or IntelliJ
-JDK 8 or newer installed and configured in you path
-Forge Mod Dev Kit
+You Need:  
+A Java IDE with a Gradle plugin: Eclipse or IntelliJ  
+JDK 8 or newer installed and configured in you path  
+Forge Mod Dev Kit  
