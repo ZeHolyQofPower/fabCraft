@@ -1,9 +1,11 @@
 # Vision
 This is a minecraft mod.  
-The goal is to be educational, detailed, and realistic representation of semiconductor manufactuing.  
-I am to practise working in this framework and build process for the firts time.  
-I'm also to compile a lot of my notes and knowledge on semiconductor manufacturing history here.  
-This has the potential to be fun to others.  
+The goal is to be an educational, detailed, and realistic representation of semiconductor manufactuing.  
+I am to practise working with the framework and build tools of minecraft modding for the firts time.  
+I'll also compile my notes and knowledge on semiconductor manufacturing here.  
+This *has the potential* to be fun to others in a community I've been passionate about since childhood.  
+  
+Check out the Game Design Document! This living document is currently being developed and fleshed out before any real coding is to be done.
 
 ## TODO:
 1. Continuous development of Game Design Document.
