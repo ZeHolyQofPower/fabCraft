@@ -31,4 +31,4 @@ LICENSE.txt
 README.txt
 changelog.txt
 # Ignore libreoffice's lock files
- **/.~lock*
+ **/*.~lock*
